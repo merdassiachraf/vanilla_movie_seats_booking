@@ -1,0 +1,11 @@
+{
+  "name": "movie_seats_booking",
+  "version": "1.0.0",
+  "description": "vanilla js movie seats booking",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MERDASSI Achraf",
+  "license": "ISC"
+}
